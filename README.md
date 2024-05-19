@@ -31,9 +31,8 @@ go run main.go "Hello,
 
 ## Authors
 
-- [@josotieno](https://learn.zone01kisumu.ke/git/josotieno/)
-- [@jwambugu](https://learn.zone01kisumu.ke/git/jwambugu)
-- [@kada](https://learn.zone01kisumu.ke/git/kada)
+- [@JosephOkumu](https://github.com/JosephOkumu)
+
 
 
 ## License
